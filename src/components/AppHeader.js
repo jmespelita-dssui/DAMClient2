@@ -18,7 +18,7 @@ import { AppBreadcrumb } from './index'
 import { AppHeaderDropdown } from './header/index'
 // import { logo } from 'src/assets/brand/logo'
 // import { logo } from 'src/assets/brand/logo'
-import logo from 'src/assets/dssui-logo.png'
+// import logo from 'src/assets/dssui-logo.png'
 
 const AppHeader = () => {
   const dispatch = useDispatch()
